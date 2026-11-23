@@ -1,0 +1,311 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2053.131083333333 4814.542" width="2053.131083333333" height="4814.542" style="--bg:#FFFFFF;--fg:#1E293B;--line:#64748B;--muted:#475569;--surface:#F8FAFC;--border:#CBD5E1;background:var(--bg)">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap');
+  text { font-family: 'Inter', system-ui, sans-serif; }
+  svg {
+    /* Derived from --bg and --fg (overridable via --line, --accent, etc.) */
+    --_text:          var(--fg);
+    --_text-sec:      var(--muted, color-mix(in srgb, var(--fg) 60%, var(--bg)));
+    --_text-muted:    var(--muted, color-mix(in srgb, var(--fg) 40%, var(--bg)));
+    --_text-faint:    color-mix(in srgb, var(--fg) 25%, var(--bg));
+    --_line:          var(--line, color-mix(in srgb, var(--fg) 50%, var(--bg)));
+    --_arrow:         var(--accent, color-mix(in srgb, var(--fg) 85%, var(--bg)));
+    --_node-fill:     var(--surface, color-mix(in srgb, var(--fg) 3%, var(--bg)));
+    --_node-stroke:   var(--border, color-mix(in srgb, var(--fg) 20%, var(--bg)));
+    --_group-fill:    var(--bg);
+    --_group-hdr:     color-mix(in srgb, var(--fg) 5%, var(--bg));
+    --_inner-stroke:  color-mix(in srgb, var(--fg) 12%, var(--bg));
+    --_key-badge:     color-mix(in srgb, var(--fg) 10%, var(--bg));
+  }
+</style>
+<defs>
+  <marker id="arrowhead" markerWidth="8" markerHeight="5" refX="7" refY="2.5" orient="auto">
+    <polygon points="0 0, 8 2.5, 0 5" fill="var(--_arrow)" stroke="var(--_arrow)" stroke-width="0.75" stroke-linejoin="round" />
+  </marker>
+  <marker id="arrowhead-start" markerWidth="8" markerHeight="5" refX="1" refY="2.5" orient="auto-start-reverse">
+    <polygon points="8 0, 0 2.5, 8 5" fill="var(--_arrow)" stroke="var(--_arrow)" stroke-width="0.75" stroke-linejoin="round" />
+  </marker>
+</defs>
+<g class="subgraph" data-id="S1" data-label="階段一：文獻解構與因果骨架提取 (Literature Deconstruction)">
+  <rect x="142.554" y="40" width="762.9570833333332" height="582.3299999999999" rx="0" ry="0" fill="var(--_group-fill)" stroke="var(--_node-stroke)" stroke-width="1" />
+  <rect x="142.554" y="40" width="762.9570833333332" height="28" rx="0" ry="0" fill="var(--_group-hdr)" stroke="var(--_node-stroke)" stroke-width="1" />
+  <text x="154.554" y="54" font-size="12" font-weight="600" fill="var(--_text-sec)" dy="4.199999999999999">階段一：文獻解構與因果骨架提取 (Literature Deconstruction)</text>
+</g>
+<g class="subgraph" data-id="S2" data-label="階段二：認知節奏與敘事分鏡編排 (Storyboarding &amp; Narrative Flow)">
+  <rect x="679.55025" y="750.6299999999999" width="401.5458333333333" height="715.8499999999999" rx="0" ry="0" fill="var(--_group-fill)" stroke="var(--_node-stroke)" stroke-width="1" />
+  <rect x="679.55025" y="750.6299999999999" width="401.5458333333333" height="28" rx="0" ry="0" fill="var(--_group-hdr)" stroke="var(--_node-stroke)" stroke-width="1" />
+  <text x="691.55025" y="764.6299999999999" font-size="12" font-weight="600" fill="var(--_text-sec)" dy="4.199999999999999">階段二：認知節奏與敘事分鏡編排 (Storyboarding &amp; Narrative Flow)</text>
+</g>
+<g class="subgraph" data-id="S3" data-label="階段三：極簡大氣視覺體系映射 (Swiss Minimalist Mapping)">
+  <rect x="750.7124166666667" y="1594.7799999999997" width="598.2755833333332" height="798.67" rx="0" ry="0" fill="var(--_group-fill)" stroke="var(--_node-stroke)" stroke-width="1" />
+  <rect x="750.7124166666667" y="1594.7799999999997" width="598.2755833333332" height="28" rx="0" ry="0" fill="var(--_group-hdr)" stroke="var(--_node-stroke)" stroke-width="1" />
+  <text x="762.7124166666667" y="1608.7799999999997" font-size="12" font-weight="600" fill="var(--_text-sec)" dy="4.199999999999999">階段三：極簡大氣視覺體系映射 (Swiss Minimalist Mapping)</text>
+</g>
+<g class="subgraph" data-id="S4" data-label="階段四：自包含 HTML 程式碼引擎 (Autonomous Code Engine)">
+  <rect x="1087.5644166666666" y="2521.75" width="669.7275" height="630.3519999999999" rx="0" ry="0" fill="var(--_group-fill)" stroke="var(--_node-stroke)" stroke-width="1" />
+  <rect x="1087.5644166666666" y="2521.75" width="669.7275" height="28" rx="0" ry="0" fill="var(--_group-hdr)" stroke="var(--_node-stroke)" stroke-width="1" />
+  <text x="1099.5644166666666" y="2535.75" font-size="12" font-weight="600" fill="var(--_text-sec)" dy="4.199999999999999">階段四：自包含 HTML 程式碼引擎 (Autonomous Code Engine)</text>
+</g>
+<g class="subgraph" data-id="S5" data-label="階段五：六維自動化品質門禁嚴檢 (6-Dimensional Quality Gate)">
+  <rect x="1041.4309166666667" y="3280.402" width="789.0756666666666" height="1014.2399999999999" rx="0" ry="0" fill="var(--_group-fill)" stroke="var(--_node-stroke)" stroke-width="1" />
+  <rect x="1041.4309166666667" y="3280.402" width="789.0756666666666" height="28" rx="0" ry="0" fill="var(--_group-hdr)" stroke="var(--_node-stroke)" stroke-width="1" />
+  <text x="1053.4309166666667" y="3294.402" font-size="12" font-weight="600" fill="var(--_text-sec)" dy="4.199999999999999">階段五：六維自動化品質門禁嚴檢 (6-Dimensional Quality Gate)</text>
+</g>
+<g class="subgraph" data-id="S6" data-label="階段六：知識庫回寫與成果交付 (Delivery &amp; Compounding)">
+  <rect x="1613.8820833333334" y="4422.942" width="399.2489999999999" height="351.6" rx="0" ry="0" fill="var(--_group-fill)" stroke="var(--_node-stroke)" stroke-width="1" />
+  <rect x="1613.8820833333334" y="4422.942" width="399.2489999999999" height="28" rx="0" ry="0" fill="var(--_group-hdr)" stroke="var(--_node-stroke)" stroke-width="1" />
+  <text x="1625.8820833333334" y="4436.942" font-size="12" font-weight="600" fill="var(--_text-sec)" dy="4.199999999999999">階段六：知識庫回寫與成果交付 (Delivery &amp; Compounding)</text>
+</g>
+<polyline class="edge" data-from="Q1" data-to="B1" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="PASS (通過)" points="410.23208333333315,233.49749999999995 410.23208333333315,295.33 888.5110833333331,295.33 888.5110833333332,794.6299999999999" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="Q2" data-to="C1" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="PASS (通過)" points="983.24025,1261.5883333333331 983.24025,1309.2799999999997 1014.2602499999999,1309.2799999999997 1014.26025,1638.7799999999997" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="Q3" data-to="D1" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="PASS (通過)" points="1162.3311666666668,2186.0883333333327 1162.3311666666668,2236.25 1169.1554166666667,2236.25 1169.1554166666665,2912.502" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="Q4" data-to="E1" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="PASS (通過)" points="1595.6789166666665,2738.589 1595.6789166666665,2808.2019999999998 1670.5670833333331,2808.2019999999998 1670.567083333333,3781.242 1575.4185833333331,3781.242 1575.4185833333331,3817.242" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="Q5" data-to="G1" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="PASS (全數合格)" points="1529.1834166666667,3581.585333333333 1529.1834166666667,3628.042 1813.5065833333333,3628.042 1813.5065833333333,4466.942" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="A1" data-to="A2" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="721.5625833333331,436.53 721.5625833333331,460.53 482.1984166666665,460.53 482.1984166666665,484.53" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="A2" data-to="A3" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="482.1984166666665,521.43 482.1984166666665,533.43 413.76066666666657,533.43 413.76066666666657,569.43" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="A3" data-to="Q1" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="286.1573333333333,569.43 286.1573333333333,533.43 173.1850833333332,533.43 173.1850833333332,295.33 310.56708333333313,295.33 310.56708333333313,233.4975" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="Q1" data-to="F1" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="FAIL (不通過)" points="360.3995833333331,283.33 360.3995833333331,399.63" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="F1" data-to="A2" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="360.39958333333317,436.53 360.39958333333317,460.53 482.1984166666665,460.53 482.1984166666665,484.53" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="B1" data-to="B2" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="888.5110833333333,831.5299999999999 888.5110833333333,879.5299999999999" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="B2" data-to="B3" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="888.5110833333333,933.3299999999999 888.5110833333333,981.3299999999999" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="B3" data-to="Q2" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="947.37275,1035.1299999999999 947.37275,1047.1299999999999 947.5485833333333,1047.1299999999999 947.5485833333333,1083.13" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="Q2" data-to="F2" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="FAIL (不通過)" points="911.8569166666666,1261.5883333333331 911.8569166666666,1309.2799999999997 891.0969166666666,1309.2799999999997 891.0969166666666,1377.58 901.3569166666666,1377.58 901.3569166666666,1413.58" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="F2" data-to="B3" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="798.4535833333333,1413.58 798.4535833333333,1377.58 825.15525,1377.58 825.15525,1047.1299999999999 829.6494166666666,1047.1299999999999 829.6494166666666,1035.1299999999999" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="C1" data-to="C2" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="1014.26025,1675.6799999999998 1014.26025,1723.6799999999998" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="C2" data-to="C3" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="1083.3724166666666,1777.4799999999998 1083.3724166666666,1789.4799999999998 1124.1695,1789.4799999999998 1124.1695,1825.4799999999998" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="C3" data-to="C4" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="1124.1695,1862.3799999999997 1124.1695,1910.3799999999997" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="C4" data-to="Q3" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="1124.1695,1947.2799999999997 1124.1695,1995.2799999999997" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="Q3" data-to="F3" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="FAIL (不通過)" points="1086.0078333333333,2186.088333333333 1086.0078333333333,2236.25 1053.7623333333333,2236.25 1053.7623333333333,2304.5499999999997 1028.3410833333332,2304.5499999999997 1028.3410833333332,2340.5499999999997" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="F3" data-to="C2" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="897.52675,2340.5499999999997 897.52675,2304.5499999999997 904.3510000000001,2304.5499999999997 904.3510000000001,1789.4799999999998 945.1480833333333,1789.4799999999998 945.1480833333333,1777.4799999999998" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="D1" data-to="D2" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="1169.1554166666667,2949.402 1169.1554166666667,2973.402 1290.5234166666667,2973.402 1290.5234166666667,2997.402" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="D2" data-to="D3" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="1290.5234166666667,3034.3019999999997 1290.5234166666667,3046.3019999999997 1337.9784166666666,3046.3019999999997 1337.9784166666666,3082.3019999999997" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="D3" data-to="Q4" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="1442.85775,3082.3019999999997 1442.85775,3046.3019999999997 1606.6274166666667,3046.3019999999997 1606.6274166666667,2820.2019999999998 1538.0659166666665,2820.2019999999998 1538.0659166666665,2796.2019999999998" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="Q4" data-to="F4" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="FAIL (不通過)" points="1480.4529166666666,2738.589 1480.4529166666666,2808.2019999999998 1411.8914166666666,2808.2019999999998 1411.8914166666666,2912.502" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="F4" data-to="D2" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="1411.8914166666664,2949.402 1411.8914166666664,2973.402 1290.5234166666667,2973.402 1290.5234166666667,2997.402" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="E1" data-to="T1" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="1565.4185833333331,3854.142 1565.4185833333333,3902.142" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="T1" data-to="T2" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="1565.4185833333333,3939.042 1565.4185833333333,3987.042" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="T2" data-to="T3" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="1565.4185833333333,4023.942 1565.4185833333331,4071.942" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="T3" data-to="T4" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="1565.4185833333331,4108.842 1565.4185833333333,4156.842" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="T4" data-to="T5" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="1565.4185833333333,4193.742 1565.4185833333333,4205.742 1512.8272499999998,4205.742 1512.8272499999998,4241.742" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="T5" data-to="T6" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="1368.9219166666667,4241.742 1368.9219166666667,4205.742 1235.0775833333332,4205.742 1235.0775833333332,3373.302 1287.1132499999999,3373.302 1287.1132499999999,3361.302" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="T6" data-to="Q5" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="1428.7955833333333,3361.302 1428.7955833333333,3373.302 1494.72675,3373.302 1494.72675,3409.302" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="Q5" data-to="F5" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="FAIL (任一項未達標)" points="1460.2700833333333,3581.5853333333334 1460.2700833333333,3732.342" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="F5" data-to="E1" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="1460.2700833333333,3769.242 1460.2700833333333,3781.242 1555.4185833333331,3781.242 1555.4185833333331,3817.242" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="G1" data-to="G2" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="1813.5065833333333,4503.842 1813.5065833333333,4551.842" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="G2" data-to="G3" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="1813.5065833333333,4588.742 1813.5065833333333,4636.742" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="G3" data-to="G4" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="1813.5065833333333,4673.642 1813.5065833333333,4721.642" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<g class="edge-label" data-from="Q1" data-to="B1" data-label="PASS (通過)">
+  <rect x="849.5110833333333" y="671.3299999999999" width="77.644" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="888.3330833333333" y="686.4799999999999" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">PASS (通過)</text>
+</g>
+<g class="edge-label" data-from="Q2" data-to="C1" data-label="PASS (通過)">
+  <rect x="975.26025" y="1515.4799999999998" width="77.644" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="1014.08225" y="1530.6299999999999" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">PASS (通過)</text>
+</g>
+<g class="edge-label" data-from="Q3" data-to="D1" data-label="PASS (通過)">
+  <rect x="1130.1554166666665" y="2442.45" width="77.644" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="1168.9774166666666" y="2457.6" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">PASS (通過)</text>
+</g>
+<g class="edge-label" data-from="Q4" data-to="E1" data-label="PASS (通過)">
+  <rect x="1631.5670833333334" y="3201.102" width="77.644" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="1670.3890833333335" y="3216.252" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">PASS (通過)</text>
+</g>
+<g class="edge-label" data-from="Q5" data-to="G1" data-label="PASS (全數合格)">
+  <rect x="1762.5065833333333" y="4343.642" width="101.40400000000001" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="1813.2085833333333" y="4358.7919999999995" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">PASS (全數合格)</text>
+</g>
+<g class="edge-label" data-from="Q1" data-to="F1" data-label="FAIL (不通過)">
+  <rect x="317.89958333333317" y="326.33" width="84.77200000000002" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="360.2855833333332" y="341.47999999999996" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">FAIL (不通過)</text>
+</g>
+<g class="edge-label" data-from="Q2" data-to="F2" data-label="FAIL (不通過)">
+  <rect x="848.5969166666666" y="1340.2799999999997" width="84.77200000000002" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="890.9829166666666" y="1355.4299999999998" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">FAIL (不通過)</text>
+</g>
+<g class="edge-label" data-from="Q3" data-to="F3" data-label="FAIL (不通過)">
+  <rect x="1011.2623333333333" y="2267.2499999999995" width="84.77200000000002" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="1053.6483333333333" y="2282.3999999999996" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">FAIL (不通過)</text>
+</g>
+<g class="edge-label" data-from="Q4" data-to="F4" data-label="FAIL (不通過)">
+  <rect x="1369.3914166666666" y="2839.2019999999998" width="84.77200000000002" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="1411.7774166666666" y="2854.352" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">FAIL (不通過)</text>
+</g>
+<g class="edge-label" data-from="Q5" data-to="F5" data-label="FAIL (任一項未達標)">
+  <rect x="1399.7700833333333" y="3659.042" width="120.41200000000002" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="1459.9760833333332" y="3674.192" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">FAIL (任一項未達標)</text>
+</g>
+<g class="node" data-id="class" data-label="class" data-shape="rectangle">
+  <rect x="40" y="40" width="74.554" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="77.277" y="58.45" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">class</text>
+</g>
+<g class="node" data-id="A1" data-label="輸入：原始文獻集 raw/papers/ 或 核心論題" data-shape="rectangle">
+  <rect x="564.6140833333332" y="399.63" width="313.897" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="721.5625833333331" y="418.08" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">輸入：原始文獻集 raw/papers/ 或 核心論題</text>
+</g>
+<g class="node" data-id="A2" data-label="萃取因果鏈：識別策略 DID / Logit / 數理分解公式" data-shape="rectangle">
+  <rect x="308.20691666666653" y="484.53" width="347.98299999999995" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="482.1984166666665" y="502.97999999999996" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">萃取因果鏈：識別策略 DID / Logit / 數理分解公式</text>
+</g>
+<g class="node" data-id="A3" data-label="提煉量化指標：彈性係數、勝算比、百分比與極端值" data-shape="rectangle">
+  <rect x="158.554" y="569.43" width="382.80999999999995" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="349.95899999999995" y="587.88" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">提煉量化指標：彈性係數、勝算比、百分比與極端值</text>
+</g>
+<g class="node" data-id="Q1" data-label="【閘門 1 檢驗】
+核心因果數據與
+文獻證據是否齊備？" data-shape="diamond">
+  <polygon points="360.3995833333331,84 460.0645833333331,183.665 360.3995833333331,283.33 260.73458333333315,183.665" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="360.3995833333331" y="183.665" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)"><tspan x="360.3995833333331" dy="-12.350000000000001">【閘門 1 檢驗】</tspan><tspan x="360.3995833333331" dy="16.900000000000002">核心因果數據與</tspan><tspan x="360.3995833333331" dy="16.900000000000002">文獻證據是否齊備？</tspan></text>
+</g>
+<g class="node" data-id="B1" data-label="B1" data-shape="rectangle">
+  <rect x="488.0645833333332" y="165.21499999999997" width="60" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="518.0645833333332" y="183.66499999999996" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">B1</text>
+</g>
+<g class="node" data-id="F1" data-label="回退補充：調閱 Wiki 概念頁與論文原文補齊數據" data-shape="rectangle">
+  <rect x="184.1850833333332" y="399.63" width="352.4289999999999" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="360.39958333333317" y="418.08" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">回退補充：調閱 Wiki 概念頁與論文原文補齊數據</text>
+</g>
+<g class="node" data-id="B1" data-label="B1" data-shape="rectangle">
+  <rect x="858.5110833333333" y="794.6299999999999" width="60" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="888.5110833333333" y="813.0799999999999" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">B1</text>
+</g>
+<g class="node" data-id="B2" data-label="模組化敘事鏈：
+Hook 衝擊 ➔ 因果雙軌 ➔ 爭議辨析 ➔ 制度突圍" data-shape="rectangle">
+  <rect x="718.2245833333334" y="879.5299999999999" width="340.5729999999999" height="53.800000000000004" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="888.5110833333333" y="906.4299999999998" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)"><tspan x="888.5110833333333" dy="-3.9000000000000012">模組化敘事鏈：</tspan><tspan x="888.5110833333333" dy="16.900000000000002">Hook 衝擊 ➔ 因果雙軌 ➔ 爭議辨析 ➔ 制度突圍</tspan></text>
+</g>
+<g class="node" data-id="B3" data-label="提煉每頁大標：一律採用『一眼看懂的結論句』
+（嚴禁純名詞或無主旨問句）" data-shape="rectangle">
+  <rect x="711.9260833333333" y="981.3299999999999" width="353.16999999999996" height="53.800000000000004" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="888.5110833333333" y="1008.2299999999999" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)"><tspan x="888.5110833333333" dy="-3.9000000000000012">提煉每頁大標：一律採用『一眼看懂的結論句』</tspan><tspan x="888.5110833333333" dy="16.900000000000002">（嚴禁純名詞或無主旨問句）</tspan></text>
+</g>
+<g class="node" data-id="Q2" data-label="【閘門 2 檢驗】
+每頁是否有結論大標
+與底部核心真相金句？" data-shape="diamond">
+  <polygon points="947.5485833333332,1083.1299999999999 1054.6235833333333,1190.205 947.5485833333332,1297.28 840.4735833333332,1190.205" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="947.5485833333332" y="1190.205" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)"><tspan x="947.5485833333332" dy="-12.350000000000001">【閘門 2 檢驗】</tspan><tspan x="947.5485833333332" dy="16.900000000000002">每頁是否有結論大標</tspan><tspan x="947.5485833333332" dy="16.900000000000002">與底部核心真相金句？</tspan></text>
+</g>
+<g class="node" data-id="C1" data-label="C1" data-shape="rectangle">
+  <rect x="946.5110833333333" y="794.6299999999999" width="60" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="976.5110833333333" y="813.0799999999999" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">C1</text>
+</g>
+<g class="node" data-id="F2" data-label="重構文案：將描述句升級為銳利之結論句" data-shape="rectangle">
+  <rect x="695.55025" y="1413.58" width="308.71" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="849.90525" y="1432.03" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">重構文案：將描述句升級為銳利之結論句</text>
+</g>
+<g class="node" data-id="C1" data-label="C1" data-shape="rectangle">
+  <rect x="984.26025" y="1638.7799999999997" width="60" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="1014.26025" y="1657.2299999999998" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">C1</text>
+</g>
+<g class="node" data-id="C2" data-label="雙象限對比頁：
+寬幅 1560px 氣派版面 ＋ 68px 巨型焦點數字 ＋ 22-28px 大字" data-shape="rectangle">
+  <rect x="806.92375" y="1723.6799999999998" width="414.67299999999994" height="53.800000000000004" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="1014.26025" y="1750.58" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)"><tspan x="1014.26025" dy="-3.9000000000000012">雙象限對比頁：</tspan><tspan x="1014.26025" dy="16.900000000000002">寬幅 1560px 氣派版面 ＋ 68px 巨型焦點數字 ＋ 22-28px 大字</tspan></text>
+</g>
+<g class="node" data-id="C3" data-label="數學推導頁：原生 CSS 公式排版 ＋ 分步點燈變色互動器" data-shape="rectangle">
+  <rect x="922.3905" y="1825.4799999999998" width="403.55799999999994" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="1124.1695" y="1843.9299999999998" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">數學推導頁：原生 CSS 公式排版 ＋ 分步點燈變色互動器</text>
+</g>
+<g class="node" data-id="C4" data-label="柱狀/排行頁：長條數值獨立外置 ＋ 容器 380px 防斷行機制" data-shape="rectangle">
+  <rect x="915.3510000000001" y="1910.3799999999997" width="417.6369999999999" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="1124.1695" y="1928.8299999999997" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">柱狀/排行頁：長條數值獨立外置 ＋ 容器 380px 防斷行機制</text>
+</g>
+<g class="node" data-id="Q3" data-label="【閘門 3 檢驗】
+是否杜絕框中框、
+去廉價虛線且字體大氣？" data-shape="diamond">
+  <polygon points="1124.1695,1995.28 1238.6544999999999,2109.765 1124.1695,2224.25 1009.6845,2109.765" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="1124.1695" y="2109.765" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)"><tspan x="1124.1695" dy="-12.350000000000001">【閘門 3 檢驗】</tspan><tspan x="1124.1695" dy="16.900000000000002">是否杜絕框中框、</tspan><tspan x="1124.1695" dy="16.900000000000002">去廉價虛線且字體大氣？</tspan></text>
+</g>
+<g class="node" data-id="D1" data-label="D1" data-shape="rectangle">
+  <rect x="1072.26025" y="1638.7799999999997" width="60" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="1102.26025" y="1657.2299999999998" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">D1</text>
+</g>
+<g class="node" data-id="F3" data-label="視覺減法：拆除巢狀框與雜亂邊線，字體放大至 22px+" data-shape="rectangle">
+  <rect x="766.7124166666667" y="2340.5499999999997" width="392.4429999999999" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="962.9339166666667" y="2358.9999999999995" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">視覺減法：拆除巢狀框與雜亂邊線，字體放大至 22px+</text>
+</g>
+<g class="node" data-id="D1" data-label="D1" data-shape="rectangle">
+  <rect x="1139.1554166666667" y="2912.502" width="60" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="1169.1554166666667" y="2930.9519999999998" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">D1</text>
+</g>
+<g class="node" data-id="D2" data-label="編寫原生互動腳本：鍵盤左右/全螢幕 F 鍵/公式點燈" data-shape="rectangle">
+  <rect x="1103.5644166666666" y="2997.402" width="373.91799999999995" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="1290.5234166666667" y="3015.852" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">編寫原生互動腳本：鍵盤左右/全螢幕 F 鍵/公式點燈</text>
+</g>
+<g class="node" data-id="D3" data-label="嚴格執行雙零原則：
+【零 Logo 原則】＋【草稿代號清零原則】" data-shape="rectangle">
+  <rect x="1233.0990833333333" y="3082.3019999999997" width="314.638" height="53.800000000000004" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="1390.4180833333332" y="3109.2019999999998" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)"><tspan x="1390.4180833333332" dy="-3.9000000000000012">嚴格執行雙零原則：</tspan><tspan x="1390.4180833333332" dy="16.900000000000002">【零 Logo 原則】＋【草稿代號清零原則】</tspan></text>
+</g>
+<g class="node" data-id="Q4" data-label="【閘門 4 檢驗】
+代碼是否自包含
+且無外部脆弱 CDN 依賴？" data-shape="diamond">
+  <polygon points="1538.0659166666665,2565.75 1653.2919166666663,2680.976 1538.0659166666665,2796.202 1422.8399166666666,2680.976" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="1538.0659166666665" y="2680.976" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)"><tspan x="1538.0659166666665" dy="-12.350000000000001">【閘門 4 檢驗】</tspan><tspan x="1538.0659166666665" dy="16.900000000000002">代碼是否自包含</tspan><tspan x="1538.0659166666665" dy="16.900000000000002">且無外部脆弱 CDN 依賴？</tspan></text>
+</g>
+<g class="node" data-id="E1" data-label="E1" data-shape="rectangle">
+  <rect x="1681.2919166666666" y="2662.526" width="60" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="1711.2919166666666" y="2680.9759999999997" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">E1</text>
+</g>
+<g class="node" data-id="F4" data-label="解耦重構：剔除外鏈，採用原生 CSS 幾何向量渲染" data-shape="rectangle">
+  <rect x="1227.1554166666665" y="2912.502" width="369.4719999999999" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="1411.8914166666664" y="2930.9519999999998" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">解耦重構：剔除外鏈，採用原生 CSS 幾何向量渲染</text>
+</g>
+<g class="node" data-id="E1" data-label="E1" data-shape="rectangle">
+  <rect x="1535.4185833333331" y="3817.242" width="60" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="1565.4185833333331" y="3835.692" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">E1</text>
+</g>
+<g class="node" data-id="T1" data-label="[檢驗 1] 視窗自適應：全螢幕與不同螢幕 100% 完整容納且居中" data-shape="rectangle">
+  <rect x="1351.0425833333334" y="3902.142" width="428.7519999999999" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="1565.4185833333333" y="3920.5919999999996" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">[檢驗 1] 視窗自適應：全螢幕與不同螢幕 100% 完整容納且居中</text>
+</g>
+<g class="node" data-id="T2" data-label="[檢驗 2] 文字斷行防護：長標籤加入 nowrap，杜絕單字被擠落" data-shape="rectangle">
+  <rect x="1348.4490833333334" y="3987.042" width="433.93899999999996" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="1565.4185833333333" y="4005.4919999999997" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">[檢驗 2] 文字斷行防護：長標籤加入 nowrap，杜絕單字被擠落</text>
+</g>
+<g class="node" data-id="T3" data-label="[檢驗 3] 數值外置防切：小比例長條數值獨立置於右側，無被切風險" data-shape="rectangle">
+  <rect x="1327.3305833333334" y="4071.942" width="476.176" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="1565.4185833333333" y="4090.392" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">[檢驗 3] 數值外置防切：小比例長條數值獨立置於右側，無被切風險</text>
+</g>
+<g class="node" data-id="T4" data-label="[檢驗 4] 極簡質感評估：大字 22px+、格局 1560px、無廉價粗框虛線" data-shape="rectangle">
+  <rect x="1331.0355833333333" y="4156.842" width="468.76599999999996" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="1565.4185833333333" y="4175.2919999999995" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">[檢驗 4] 極簡質感評估：大字 22px+、格局 1560px、無廉價粗框虛線</text>
+</g>
+<g class="node" data-id="T5" data-label="[檢驗 5] 動態步進功能：公式點燈正常，長條圖動畫生長順暢" data-shape="rectangle">
+  <rect x="1225.0165833333333" y="4241.742" width="431.716" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="1440.8745833333332" y="4260.192" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">[檢驗 5] 動態步進功能：公式點燈正常，長條圖動畫生長順暢</text>
+</g>
+<g class="node" data-id="T6" data-label="[檢驗 6] 格式乾淨度：零 Logo、無 [[P..]] 代號、學術署名正規" data-shape="rectangle">
+  <rect x="1145.4309166666667" y="3324.402" width="425.0469999999999" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="1357.9544166666667" y="3342.852" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">[檢驗 6] 格式乾淨度：零 Logo、無 [[P..]] 代號、學術署名正規</text>
+</g>
+<g class="node" data-id="Q5" data-label="【閘門 5 總判定】
+六項檢驗指標
+是否全數 100% PASS？" data-shape="diamond">
+  <polygon points="1494.7267499999998,3409.302 1598.0967499999997,3512.672 1494.7267499999998,3616.042 1391.35675,3512.672" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="1494.7267499999998" y="3512.672" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)"><tspan x="1494.7267499999998" dy="-12.350000000000001">【閘門 5 總判定】</tspan><tspan x="1494.7267499999998" dy="16.900000000000002">六項檢驗指標</tspan><tspan x="1494.7267499999998" dy="16.900000000000002">是否全數 100% PASS？</tspan></text>
+</g>
+<g class="node" data-id="G1" data-label="G1" data-shape="rectangle">
+  <rect x="1057.4309166666667" y="3324.402" width="60" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="1087.4309166666667" y="3342.852" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">G1</text>
+</g>
+<g class="node" data-id="F5" data-label="精準修復：根據失敗維度調用腳本修復 CSS / HTML 標籤" data-shape="rectangle">
+  <rect x="1259.9730833333333" y="3732.342" width="400.594" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="1460.2700833333333" y="3750.792" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">精準修復：根據失敗維度調用腳本修復 CSS / HTML 標籤</text>
+</g>
+<g class="node" data-id="G1" data-label="G1" data-shape="rectangle">
+  <rect x="1783.5065833333333" y="4466.942" width="60" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="1813.5065833333333" y="4485.392" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">G1</text>
+</g>
+<g class="node" data-id="G2" data-label="產出 SL-[主題].md 繁體中文 Marp 簡報檔" data-shape="rectangle">
+  <rect x="1666.5615833333334" y="4551.842" width="293.89" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="1813.5065833333333" y="4570.2919999999995" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">產出 SL-[主題].md 繁體中文 Marp 簡報檔</text>
+</g>
+<g class="node" data-id="G3" data-label="回寫知識庫索引 wiki/index.md 與操作日誌 wiki/log.md" data-shape="rectangle">
+  <rect x="1629.8820833333334" y="4636.742" width="367.2489999999999" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="1813.5065833333333" y="4655.192" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">回寫知識庫索引 wiki/index.md 與操作日誌 wiki/log.md</text>
+</g>
+<g class="node" data-id="G4" data-label="交付成果：提供直接開啟連結與 F 鍵放映操作指南" data-shape="rectangle">
+  <rect x="1630.2525833333334" y="4721.642" width="366.5079999999999" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="1813.5065833333333" y="4740.092" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">交付成果：提供直接開啟連結與 F 鍵放映操作指南</text>
+</g>
+</svg>
